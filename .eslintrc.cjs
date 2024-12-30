@@ -11,6 +11,7 @@ module.exports = {
     parser: require.resolve('@typescript-eslint/parser'),
     extraFileExtensions: [ '.vue' ]
   },
+  
 
   env: {
     browser: true,
